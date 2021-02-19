@@ -11,4 +11,3 @@ QObject affords additional functionality like signals and slots. QThread is a co
 
 [Here](https://doc.qt.io/qt-5/threads-qobject.html) is what Qt has to say on the topic: [Qt documentation on threads and objects.](https://doc.qt.io/qt-5/threads-qobject.html)
 
-    
