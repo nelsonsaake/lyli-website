@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Related-topics on Lyli</title>
+    <link>http://example.org/related-topics/</link>
+    <description>Recent content in Related-topics on Lyli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Feb 2021 07:59:16 +0000</lastBuildDate><atom:link href="http://example.org/related-topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QObjects and QThreads</title>
+      <link>http://example.org/related-topics/qobjects-and-qthreads/</link>
+      <pubDate>Wed, 10 Feb 2021 07:59:16 +0000</pubDate>
+      
+      <guid>http://example.org/related-topics/qobjects-and-qthreads/</guid>
+      <description>QObject affords additional functionality like signals and slots. QThread is a convenience class for working with threads in Qt; It is simpler, easy to use, and the system handle most of the clean up. Combining the two, you can have objects of different classes communicate over different threads.
+Here is what Qt has to say on the topic: Qt documentation on threads and objects.</description>
+    </item>
+    
+    <item>
+      <title>Qt Signals and Slots</title>
+      <link>http://example.org/related-topics/signals-and-slots/</link>
+      <pubDate>Wed, 10 Feb 2021 07:57:47 +0000</pubDate>
+      
+      <guid>http://example.org/related-topics/signals-and-slots/</guid>
+      <description>Signals and slots in Qt allows objects to communicate. It allows one object to react to some changes in another object.</description>
+    </item>
+    
+  </channel>
+</rss>
