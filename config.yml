@@ -4,7 +4,7 @@ title: Lyli
 theme: PaperMod
 
 enableRobotsTXT: true
-buildDrafts: true
+buildDrafts: false
 buildFuture: false
 buildExpired: false
 
@@ -12,7 +12,8 @@ params:
   homeInfoParams:
       Title: ".Lyli \U0001F44B"
       Content: Download the latest release.
-               ![ a signals and slots image ](/images/Lyli/Slide1.JPG) 
+               ![ a signals and slots image ](/images/Lyli/Slide1.JPG)  
+               [go here](/story/how-to-magically-rename-files)
 
                 
   
