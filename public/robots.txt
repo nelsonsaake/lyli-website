@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://lyli-website.onrender.com/sitemap.xml
