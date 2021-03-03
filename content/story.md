@@ -80,11 +80,11 @@ I want to see how the app will handle displaying it. I have gotten past the cont
 {{< story/problem >}} So far, display the database updates in the UI is not working. It almost as if it blocked by the continuous entry. And, I don't get it because the continuous entry part of the thing is in a different thread. {{< /story/problem >}} 
 
 {{< story/time "3" "20" "pm" >}} 
-So, I learnt the proper way of dealing with threads in Qt is to use signals and slots. That is, when using the QThreads, and you want objects on different thread to communicate, let them inherit QObject and use signals and slots to communicate. <br>
+So, I learnt the proper way of dealing with threads in Qt is to use signals and slots. That is, when using the QThreads, and you want objects on different threads to communicate, let them inherit QObject and use signals and slots to communicate. <br>
 It’s like the async key word in other languages. When using signals and slots to communicate between objects, when a signal is emitted it schedules a call to all the slots. In summary, it makes things simpler and easier. <br>
 What I was doing was: 
 
-{{< gist "nelsonsaake" "lyli-gist-1.c++" >}}
+{{< gist "nelsonsaake" "4b041abe62166ff1b5f1d2b4a40beade" >}}
 	
 {{< story/time "5" "50" "pm" >}}
 Recap: the best way for objects on different threads to communicate in Qt is using QThread: is using signals and slots. <br>
@@ -138,7 +138,7 @@ This is good news because, finally I have the threads working like they are supp
 As for why the multithreading approach failed the first time: I am certain is because, I made the classes static.   <br>
 If I had my git working, I would have simply referred you to a branch. Example: 
 
-{{< gist nelsonsaake "lyli-gist-2.c++" >}}
+{{< gist nelsonsaake "debebde77ae4e7509b81f1a90796267c" >}}
 
 The idea was to push everything to different thread from the main. And have that one instance be accessed through-out the entire app. Like a singleton. <br>
 But that didn't work. I don't know why for sure yet. But I think the reason it didn't work is the same reason I having a DB error now. <br>
@@ -252,7 +252,7 @@ For the type of objects, I was throwing around via signals and slots, I had to r
 <br>
 Code for registering the type:
 
-{{< gist nelsonsaake "lyli-3.c++" >}}
+{{< gist nelsonsaake "668154b9ed78c33847e4d4e82f7ee71f" >}}
 
 People, I want to take this opportunity to remember Abraham Lincoln. He said: if I had 10 hours to cut down a tree. I would spend 6 sharping my axe. <br>
 Your axe is programming is your IDE and "What you know you don't know". Before you start make sure you get the best resources available to you and learn those things you know you don't know but you might need. <br>
@@ -312,7 +312,7 @@ The entire thing is multithreading. There is no way to know for sure, because th
 I have been thinking about this partially, and I thing I have an answer. The UI need to know when to tell the user the scan is finished. <br>
 So, the approach I'm taking is, if the UI doesn't receive any signals in about 30sec, it would send out a signal like a flare, if the signal returns in due time, then the UI will know it is finished. <br>
 
-{{< gist nelsonsaake "lyli-4.c++">}}
+{{< gist nelsonsaake "31b645a58cdf525f4cdc868e3471651a">}}
 
 {{< /story/day >}} 
 
