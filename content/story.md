@@ -12,6 +12,8 @@ draft: false
 
 <em>Target Builder is another name for Folder Scanner</em>
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 {{< story/day >}}
 
 {{< story/date "30" "11" "2020" >}}
@@ -56,6 +58,7 @@ I also went ahead to create two widgets to reflect the databases in the applicat
 {{< /story/day >}}
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -95,7 +98,8 @@ By the way, I just got home from work. <br>
 
 {{< /story/day >}} 
 
- 
+
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -123,6 +127,7 @@ I have 3 main segments. The UI, simulation and the database. Simulation is piece
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -152,6 +157,7 @@ My reasoning is, to create a class that just pops up DB connection using the thr
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -167,6 +173,7 @@ Yesterday I discovered a cool Qt class. QThreadStorage. It is incredible. Check 
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -202,6 +209,7 @@ Here, we are only interested in files that have the .lyli as its extension. The 
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -217,6 +225,7 @@ No framework, nothing. Just me and the standard libraries. It would be incredibl
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -264,6 +273,7 @@ I'm about to make an Icon for the app. At the office I started the process. I wr
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -300,6 +310,7 @@ Back to business, I the past I have used Inno setup to package my software in th
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -317,6 +328,7 @@ So, the approach I'm taking is, if the UI doesn't receive any signals in about 3
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -354,6 +366,7 @@ Today, I will attempt a different approach to the whole thing: the focus here is
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -372,6 +385,7 @@ So, we do a little bit of procedural execution of the entire task here. When the
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -419,6 +433,7 @@ The new plan is to improve on the UI, create some other content on the app and p
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -443,6 +458,7 @@ If Komla doesn't get back me on the website, I will contact him again. <br>
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
@@ -459,6 +475,7 @@ By 29th of Jan 2021, I had Hugo setup and already trying out themes. And by the 
 {{< /story/day >}} 
 
 
+<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< /story/normal >}}
