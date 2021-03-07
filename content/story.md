@@ -8,7 +8,7 @@ draft: false
 
 {{< story/normal >}}
 
-{{< story/heading >}} THE BIRTH OF .LYLI {{< /story/heading >}} 
+{{< story/heading >}} THE BIRTH OF LYLI {{< /story/heading >}} 
 
 <em>Target Builder is another name for Folder Scanner</em>
 
