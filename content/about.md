@@ -11,7 +11,9 @@ What comes after the last dot "." in the name of the file, tells the computer wh
 \
 The virus also changes what is in the file. So, after correcting the file names: some files may still not open. Some file will be partially useful and for others, it would be as if no harm was done. \
 \
-Example: If a pdf was corrupted by the virus and the name was corrected. The first page might be corrupted, but everything else will be show.
+{{< about/example >}}
+If a pdf was corrupted by the virus and the name was corrected. The first page might be corrupted, but everything else will be show.
+{{< /about/example >}}
 
 # THE APP
 The current version of the app corrects the name of the file. It **does  not** reverse the damage done to the content of the file.
