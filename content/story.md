@@ -56,7 +56,6 @@ I also went ahead to create two widgets to reflect the databases in the applicat
 {{< /story/day >}}
 
 
-<script data-ad-client="ca-pub-4771693215081441" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 {{< story/day >}} 
